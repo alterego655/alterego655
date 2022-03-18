@@ -5,9 +5,15 @@
      CMU 15-445 Database systems <br />      
      MIT 6.S081 Operating system engineering... <br />  
      The next hard core course to obtain would be MIT 6.824 Distributed systems? <br />  
+     
 - 🤔 I’m looking for help with ...
+
 💬 Ask me about DBMS and system development
+
 📫 How to reach me: xunengzhou@gmail.com
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
 -->
