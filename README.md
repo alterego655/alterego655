@@ -8,9 +8,9 @@
      
 - 🤔 I’m looking for help with ...
 
-💬 Ask me about DBMS and system development
+- 💬 Ask me about DBMS and system development
 
-📫 How to reach me: xunengzhou@gmail.com
+- 📫 How to reach me: xunengzhou@gmail.com
 
 - 😄 Pronouns: ...
 
