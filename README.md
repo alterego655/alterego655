@@ -1,4 +1,4 @@
-### Hi there 👋 I am Xuneng Zhou. A highly motivated programming enthusiast.
+### Hi there 👋 I am coding hitchhiker. A highly motivated programming enthusiast.
 
 - 🌱 I’m currently looking for job opportunities in backend/infra/DB kernel.
 - 👯 The open source courses that I have taken in my spare time including but not limited to <br />  
